@@ -1,0 +1,6 @@
+{
+  "name": "OrderRelay WhatsApp Notifier",
+  "description": "Standalone Node.js WhatsApp Web order notification relay with persistent SQLite queue, Arabic receipt formatting, and authenticated operations dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
